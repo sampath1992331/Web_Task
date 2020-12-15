@@ -3,6 +3,8 @@
 *Very First Please Execute the DBScript File
 
 Version:.Net Core 3.1
+Visual Studio 2019
+SQL Server
 
 #Get Methods
 http://localhost:7010/api/Main/GetCustomersNameList
